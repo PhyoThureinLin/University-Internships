@@ -1,0 +1,513 @@
+@charset "utf-8";
+
+#apDivBanner {
+    position: absolute;
+    width: 950px;
+    height: 200px;
+    background-image: url(images/Web_banner.jpg);
+    background-repeat: no-repeat;
+}
+#apDivMenu {
+    position: absolute;
+    top: 205px;
+    width: 950px;
+    height: 50px;
+    text-align: center;
+    word-spacing: 1cm;
+    background-image: url(images/Menu.jpg);
+    background-repeat: no-repeat;
+}
+#apDivCollage {
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    top: 255px;
+    background-image: url(images/collage%201.jpg);
+    background-repeat: no-repeat;
+}
+#apDivRightContent {
+    width: 450px;
+    height: 350px;
+    position: absolute;
+    top: 310px;
+    left: 510px;
+    text-align: justify;
+}
+#apDivLeftBottom {
+    width: 500px;
+    height: 160px;
+    position: absolute;
+    top: 910px;
+}
+#apDivVideo {
+    width: 450px;
+    height: 350px;
+    position: absolute;
+    top: 720px;
+    left: 510px;
+}
+#apDivFooter {
+    width: 950px;
+    height: 250px;
+    position: absolute;
+    top: 1075px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(images/Footer%201.jpg);
+}
+#apDivLeftContent {
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    top: 665px;
+    text-align: justify;
+}
+#apDivRightBottom {
+    width: 450px;
+    height: 50px;
+    position: absolute;
+    top: 665px;
+    left: 510px;
+    text-align: center;
+}
+#apDivUniversity {
+    width: 450px;
+    height: 50px;
+    position: absolute;
+    top: 255px;
+    left: 510px;
+    text-align: center;
+    background-image: url(images/University%20of%20Florida.jpg);
+    background-repeat: no-repeat;
+}
+#apDivCopyRight {
+    width: 950px;
+    height: 50px;
+    position: absolute;
+    top: 1300px;
+    background-repeat: no-repeat;
+    background-image: url(images/Copyright%201.jpg);
+}
+#apDivFooter2 {
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 750px;
+    top: 1075px;
+}
+#apDivAboutusContent {
+    width: 950px;
+    height: 650px;
+    position: absolute;
+    top: 255px;
+    text-align: justify;
+}
+#apDivPlanningPhoto {
+    width: 950px;
+    height: 200px;
+    position: absolute;
+    top: 255px;
+    background-image: url(images/Career%20planning.jpg);
+    background-repeat: no-repeat;
+}
+#apDivPlanningContent {
+    width: 950px;
+    height: 600px;
+    position: absolute;
+    top: 460px;
+    text-align: justify;
+}
+#apDivPathwaysPhoto {
+    width: 950px;
+    height: 180px;
+    position: absolute;
+    top: 255px;
+    background-repeat: no-repeat;
+    background-image: url(images/Pathways.jpg);
+}
+#apDivPathwaysContent {
+    width: 950px;
+    height: 625px;
+    position: absolute;
+    top: 440px;
+    text-align: justify;
+}
+#apDivInternshipMainContent{
+    width: 950px;
+    height: 1600px;
+    position: absolute;
+    top: 460px;
+    text-align: justify;
+}
+#apDivIntetrnshipsFooter{
+    top: 2065px;
+    position: absolute;
+    width: 950px;
+    height: 250px;
+	text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(images/Footer%201.jpg);
+}
+#apDivInternshipsFooter2{
+	width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 750px;
+	top:2065px;
+}
+#apDivInternshipsCopyRight{
+	width: 950px;
+    height: 50px;
+    position: absolute;
+    top: 2310px;
+    background-repeat: no-repeat;
+    background-image: url(images/Copyright%201.jpg);
+}
+#apDivInternshipsLeftContent {
+    width: 205px;
+    height: 200px;
+    position: absolute;
+    top: 255px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivInternshipsPhoto {
+    width: 750px;
+    height: 200px;
+    position: absolute;
+    top: 255px;
+    left: 210px;
+    background-image: url(images/criminology_internship_w.jpg);
+    background-repeat: no-repeat;
+}
+#apDivStudentMicroLeftContent {
+	width: 205px;
+    height: 200px;
+    position: absolute;
+    top: 255px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivStudentMicroPhoto {
+    width: 750px;
+    height: 200px;
+    position: absolute;
+    top: 255px;
+    left: 210px;
+    background-image: url(images/Student%20Micro%20Internships.jpg);
+    background-repeat: no-repeat;
+}
+#apDivStudentMicroFooter{
+	top: 1595px;
+    position: absolute;
+    width: 950px;
+    height: 250px;
+	text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(images/Footer%201.jpg);
+}
+#apDivStudentMicroFooter2{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 750px;
+	top:1595px;
+}
+#apDivStudentMicroCopyRight{
+	width: 950px;
+    height: 50px;
+    position: absolute;
+    top: 1795px;
+    background-repeat: no-repeat;
+    background-image: url(images/Copyright%201.jpg);
+}
+#apDivStudentMicroMainContent {
+    width: 950px;
+    height: 720px;
+    position: absolute;
+    top: 460px;
+    text-align: justify;
+}
+#apDivStudentMicroVideo {
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    top: 1185px;
+    left: 175px;
+}
+#apDivStudentMicroApply {
+    width: 950px;
+    height: 100px;
+    position: absolute;
+    top: 1490px;
+    text-align: center;
+}
+#apDivPartTimeLeftContent {
+	width: 205px;
+    height: 200px;
+    position: absolute;
+    top: 255px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivPartTimePhoto {
+    width: 750px;
+    height: 200px;
+    position: absolute;
+    top: 255px;
+    left: 210px;
+    background-image: url(images/Part-Time%20work.jpg);
+    background-repeat: no-repeat;
+}
+#apDivPartTimeMainContent {
+    width: 950px;
+    height: 780px;
+    position: absolute;
+    top: 460px;
+    text-align: justify;
+}
+#apDivPartTimeFooter{
+	top: 1245px;
+    position: absolute;
+    width: 950px;
+    height: 250px;
+	text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(images/Footer%201.jpg);
+}
+#apDivPartTimeFooter2{
+	width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 750px;
+	top:1245px;
+}
+#apDivPartTimeCopyRight{
+	width: 950px;
+    height: 50px;
+    position: absolute;
+    top: 1495px;
+    background-repeat: no-repeat;
+    background-image: url(images/Copyright%201.jpg);
+}
+#apDivApplyFooter{
+	top: 1325px;
+    position: absolute;
+    width: 950px;
+    height: 250px;
+	text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(images/Footer%201.jpg);
+}
+#apDivApplyFooter2{
+	width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 750px;
+	top:1325px;
+}
+#apDivApplyCopyRight{
+	width: 950px;
+    height: 50px;
+    position: absolute;
+    top: 1525px;
+    background-repeat: no-repeat;
+    background-image: url(images/Copyright%201.jpg);
+}
+#apDivApplyHeading1 {
+    width: 950px;
+    height: 70px;
+    position: absolute;
+    top: 255px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivApplyHeading2 {
+    width: 950px;
+    height: 70px;
+    position: absolute;
+    top: 610px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivApplyHeading3 {
+    width: 950px;
+    height: 70px;
+    position: absolute;
+    top: 965px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivApplyContent1 {
+    width: 500px;
+    height: 285px;
+    position: absolute;
+    top: 325px;
+    text-align: justify;
+}
+#apDivApplyContent2 {
+    width: 500px;
+    height: 285px;
+    position: absolute;
+    top: 685px;
+    left: 460px;
+}
+#apDivContent3 {
+}
+#apDivApplyContent3 {
+	width: 500px;
+    height: 285px;
+    position: absolute;
+    top: 1040px;
+}
+#apDivApplyPhoto1 {
+    width: 450px;
+    height: 285px;
+    position: absolute;
+    top: 325px;
+    left: 505px;
+    background-image: url(images/Political%20Science%20Internship.jpg);
+    background-repeat: no-repeat;
+}
+#apDivApplyPhoto2 {
+    width: 450px;
+    height: 285px;
+    position: absolute;
+    top: 680px;
+    background-image: url(images/Herbert%20Wertheim%20Engineering.jpg);
+    background-repeat: no-repeat;
+}
+#apDivApplyPhoto3 {
+    width: 450px;
+    height: 285px;
+    position: absolute;
+    top: 1035px;
+    left: 505px;
+    background-image: url(images/advertising%20department%20internship.jpg);
+    background-repeat: no-repeat;
+}
+#apDivPathwaysFooter{
+	width: 950px;
+    height: 250px;
+    position: absolute;
+    top: 1475px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(images/Footer%201.jpg);
+}
+#apDivPathwaysFooter2{
+	width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 750px;
+    top: 1475px;
+}
+#apDivPathwaysCopyRight{
+	width: 950px;
+    height: 50px;
+    position: absolute;
+    top: 1700px;
+    background-repeat: no-repeat;
+    background-image: url(images/Copyright%201.jpg);
+}
+#apDivPathwaysContent2 {
+    width: 950px;
+    height: 80px;
+    position: absolute;
+    top: 1070px;
+    text-align: center;
+    background-color: #0072BB;
+}
+#apDivPathwaysPhoto1 {
+    width: 310px;
+    height: 320px;
+    position: absolute;
+    top: 1155px;
+    background-image: url(images/Career%20Success%20Institute.jpg);
+    background-repeat: no-repeat;
+}
+#apDivPathwaysPhoto2 {
+    width: 310px;
+    height: 320px;
+    position: absolute;
+    top: 1155px;
+    left: 330px;
+    background-image: url(images/CHOMP%201.jpg);
+    background-repeat: no-repeat;
+}
+#apDivPathwaysPhoto3 {
+    width: 310px;
+    height: 320px;
+    position: absolute;
+    top: 1155px;
+    left: 650px;
+    background-image: url(images/Self%20Assessment%201.jpg);
+    background-repeat: no-repeat;
+}
+#apDivPathwaysLink1 {
+    width: 310px;
+    height: 50px;
+    position: absolute;
+    top: 1305px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivPathwaysLink2 {
+    width: 310px;
+    height: 50px;
+    position: absolute;
+    top: 1305px;
+    left: 330px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivPathwaysLink3 {
+    width: 310px;
+    height: 50px;
+    position: absolute;
+    top: 1305px;
+    left: 650px;
+    background-color: #0072BB;
+    text-align: center;
+}
+#apDivAboutUsPhoto {
+    width: 950px;
+    height: 170px;
+    position: absolute;
+    top: 915px;
+    background-image: url(images/About%20Us%20Team.jpg);
+    background-repeat: no-repeat;
+}
+#apDivAboutUsPhoto1 {
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    left: 600px;
+    top: 525px;
+    background-repeat: no-repeat;
+    background-image: url(images/Career%20Connection%20Center%20Logo%201.png);
+}
+#apDivPartTimePhoto1 {
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    top: 630px;
+    left: 550px;
+    background-image: url(images/Part-Time%20work%201.jpg);
+    background-repeat: no-repeat;
+}
+#apDivContactUsPhoto {
+    width: 950px;
+    height: 300px;
+    position: absolute;
+    top: 255px;
+    background-image: url(images/Contact%20us.jpg);
+    background-repeat: no-repeat;
+}
+#apDivContactUsContent {
+    width: 950px;
+    height: 510px;
+    position: absolute;
+    top: 566px;
+    left: 8px;
+}
